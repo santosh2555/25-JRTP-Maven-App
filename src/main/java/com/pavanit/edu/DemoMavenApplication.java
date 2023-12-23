@@ -7,4 +7,6 @@ public class DemoMavenApplication {
 			System.out.println("*****....Welcome to maven practice.......");
 	}
 
+
+
 }
